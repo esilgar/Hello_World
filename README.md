@@ -1,2 +1,3 @@
 # Hello_World
-epositorio para practicar el flujo de GitHub
+Seguimos practicando en la rama edit de hellow world
+Repositorio para practicar el flujo de GitHub
